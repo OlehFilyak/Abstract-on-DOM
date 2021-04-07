@@ -1,0 +1,14 @@
+.add {
+    color:white;
+    background-color: green;
+}
+
+.remove {
+    color:white;
+    background-color: orange;
+}
+
+.clear {
+    color:white;
+    background-color: red;
+}
